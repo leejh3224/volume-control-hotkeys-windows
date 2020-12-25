@@ -1,0 +1,6 @@
+github.com/go-ole/go-ole v1.2.4 h1:nNBDSCOigTSiarFpYE9J/KtEA1IOW4CNeqT9TQDqCxI=
+github.com/go-ole/go-ole v1.2.4/go.mod h1:XCwSNxSkXRo4vlyPy93sltvi/qJq0jqQhjqQNIwKuxM=
+github.com/itchyny/volume-go v0.2.0 h1:Y9PbJ+FbdoiAA8shCjZ/oMwsVynxE0hjDQiDrVdN7qk=
+github.com/itchyny/volume-go v0.2.0/go.mod h1:HkEkJcoQvzaGwNjlvYbB7ybZbd29Z9pGVxvb3j172uk=
+github.com/moutend/go-wca v0.1.1 h1:XTuNIhTOxRrdOQnCufXdTAp2+Nh3vtE7upKksC31sS4=
+github.com/moutend/go-wca v0.1.1/go.mod h1:tOejf27SfSMa+8LuMhPE0bdaFNnoxlmMGvo/VwAWi7Q=
